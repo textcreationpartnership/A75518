@@ -1,0 +1,456 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An appeale of the orthodox ministers of the Church of England against Richard Mountague, late Bishop of Chichester, now Bishop of Norwich. To the most illustrious, high, and honourable court of Parliament. And to the nobilitie, orthodox clergie, gentry, and communaltie of England. With the proceedings against him in Bow-Church. And an epistle to B. Mountague himselfe. also, a supplication of the ministers of Scotland against the said Mountague. Wherein his dangerous heresies are revealed; and the character of an Arminian or Mountaguists is added.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75518</idno>
+            <idno type="STC">Wing A3566</idno>
+            <idno type="STC">Thomason E206_11</idno>
+            <idno type="STC">ESTC R209850</idno>
+            <idno type="EEBO-CITATION">99868704</idno>
+            <idno type="PROQUEST">99868704</idno>
+            <idno type="VID">157715</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75518)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157715)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 36:E206[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An appeale of the orthodox ministers of the Church of England against Richard Mountague, late Bishop of Chichester, now Bishop of Norwich. To the most illustrious, high, and honourable court of Parliament. And to the nobilitie, orthodox clergie, gentry, and communaltie of England. With the proceedings against him in Bow-Church. And an epistle to B. Mountague himselfe. also, a supplication of the ministers of Scotland against the said Mountague. Wherein his dangerous heresies are revealed; and the character of an Arminian or Mountaguists is added.</title>
+               </titleStmt>
+               <extent>[2], 37, 36-37, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edenburgi :</pubPlace>
+                  <date>M.DC.XLI. [1641]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The Roman numeral date in the imprint is made with turned C's.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Montagu, Richard, 1577-1641 --  Early works to 1800.</term>
+               <term>Arminianism --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157715:1"/>
+            <p>AN APPEALE OF THE ORTHODOX MINISTERS OF THE CHURCH OF <hi>ENGLAND: Againſt</hi> RICHARD MOUNTAGUE, Late Biſhop of <hi>Chicheſter,</hi> now Biſhop of <hi>Norwich.</hi> TO THE MOST ILLVSTRIOVS, High, and Honourable Court of PARLIAMENT. <hi>AND TO</hi> THE NOBILITIE, ORTHODOX Clergie, Gentry, and Communaltie of <hi>England.</hi> With the proceedings againſt him in <hi>Bow</hi>-Church. <hi>And an Epistle to B.</hi> Mountague <hi>himſelfe.</hi> alſo, <hi>A Supplication of the Miniſters of</hi> Scotland againſt the ſaid <hi>Mountague.</hi> Wherein His dangerous Hereſies are revealed; and the Character of an <hi>Arminian</hi> or <hi>Mountaguists</hi> is added.</p>
+            <p>EDENBVRGI. M. DC. XLI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="remonstrance">
+            <pb facs="tcp:157715:2"/>
+            <pb n="1" facs="tcp:157715:2"/>
+            <head>Most Noble, Honourable, Worſhipfull and Religious: <hi>MEN, FATHERS, BRETHREN.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Ee the Orthodox Miniſters of the Goſpell in the Church of England, to the number of 1000. and more; In moſt humble and zealous manner, not without bleeding hearts and on ben<g ref="char:EOLhyphen"/>ded knees, doe Remonſtrate vnto <hi>You this great and graue Senate, the Worthies of our Engliſh-Iſrael,</hi> now aſſembled in the high and honourable Court of Par<g ref="char:EOLhyphen"/>liament. That (as is notorious, and you not igno<g ref="char:EOLhyphen"/>rant) Mr. RICHARD MOVNTAGVE hath heeretofore written and publiſhed three ſeverall Bookes; the firſt, entituled, <hi>An anſwere to the Gag<g ref="char:EOLhyphen"/>ger of Proteſtants;</hi> the ſecond, <hi>A Treatiſe of the Invocation of Saints;</hi> the third, <hi>An Appeale to Caeſar.</hi>
+            </p>
+            <p>In the two former whereof hee pretendeth to anſwere the common Adverſarie of our Church: though indeed hee is nothing better than a cunning ſtickler and Advocate for them: For the which hee was touched by Information in Parliament, xxj<hi rend="sup">o</hi>. IACOBI. But that Parliament ending, and ſoone after, King (IAMES of famous memorie) dying; he ſet forth his third Booke called <hi>the Appeale to
+<pb n="2" facs="tcp:157715:3"/>Caeſar:</hi> wherein hee more openly ſhewes himſelfe in his colours, by ſpitting forth his venome and ſpewing forth his gall againſt King IAMES (of ever bleſſed memorie) and, whereof hee was <hi>ſu<g ref="char:EOLhyphen"/>preame Gouernour,</hi> the <hi>Church of England,</hi> and all the ſincere Profeſſours of the Goſpell therein: and yet, with an audacious face, whoriſh forehead, and accurate ambo-dexteritie, hee would ſeeme to pin theſe his baſtardly Bratts vpon the ſleeue of our deere and chaſt mother the Church of England: And not reſting there, this his third Booke of <hi>Appeale,</hi> hee asw impudently as audaciouſly dedicateth to our gracious Soueraigne King CHARLES, pre<g ref="char:EOLhyphen"/>ſently vpon his comming to the Crowne; and there<g ref="char:EOLhyphen"/>by ſubtilly endeavoureth to infect the mind of his Majeſtie, in his tender yeares, by vnſound Tenents; (how beit we hope his ſacred Majeſtie, as was his royall Father, is ſoundly grounded in Orthodox writings and opinions) unſound, ſaid wee; yea, haereticall, ſavouring one while of old-<hi>Pelagianiſme,</hi> and eft-ſoones of new-<hi>Arminianiſme,</hi> and other<g ref="char:EOLhyphen"/>whiles of flat-<hi>Papiſme.</hi>
+            </p>
+            <p>All which his errours and Haereſies haue beene publikely diſplayed and confuted by diuers of our Orthodox Brethren of the Church of England: <hi>Viz.</hi> Reverend Doctour CARLETON, late Biſhop of Chicheſter, (now with God:) Doctour SVT<g ref="char:EOLhyphen"/>CLIFFE, Deane of Exceſter: Doctour GOAD and Doctour FEATLY, late Chaplaines to the moſt Reverend Archbiſhop of Canterbury: Mr. BVXTON; Mr. YATES; Mr. WOTTON; all theſe, wee ſay, Divines: and beſides, (whom we muſt not forget) two worthy Gentlemen, Mr. ROVSE and Mr. PRINNE, Orthodox members
+<pb n="3" facs="tcp:157715:3"/>of our Church: All theſe before-named, theyr Books of Confutation are extant to the World in print.</p>
+            <p>Now, for the opinion of the Reformed Churches beyond the Seas, wee are not ignorant that his laſt Book of <hi>Appeale to Caeſar,</hi> hauing beene tranſlated and ſent beyond Seas, the Church of Geneva, with all the reformed Churches of France, (though now under the Croſſe) haue condemned it: the ortho<g ref="char:EOLhyphen"/>dox Churches of Germanie and the Netherlands haue done no leſſe. And this knowledge wee haue by Letters ſent to ſome of our graue Brethren reſi<g ref="char:EOLhyphen"/>ding in London.</p>
+            <p>And now (by order alſo) O worthy Houſe, you muſt giue vs leaue to put you in mind, when <hi>Moun<g ref="char:EOLhyphen"/>tagu</hi> had publiſhed that his laſt Booke, wherein he ſpared not to vilifie the Synode of <hi>Dort;</hi> Your re<g ref="char:EOLhyphen"/>ligious care in behalfe of that Synode, appeared in <hi>an Act</hi> you had in agitation (by P)etition) at Ox<g ref="char:EOLhyphen"/>ford, 1. CAROLI, <hi>Against Haereſies and falſe Doc<g ref="char:EOLhyphen"/>trine:</hi> the Copie whereof we preſent here unto your view, exhibited by your Houſe of Commons in Parlament, 1625. which remaines upon Record in Records as followeth;</p>
+            <floatingText xml:lang="eng" type="Act_of_Parliament">
+               <body>
+                  <pb n="4" facs="tcp:157715:4"/>
+                  <head>An Act for the repreſſing and preven<g ref="char:EOLhyphen"/>tion of Haereſies <hi>and</hi> falſe Doctrines.</head>
+                  <p>MOſt humbly and inſtantly beſeeching your Majeſtie, your faithfull and loyall Commons in this preſent Parlament aſſembled, and repreſen<g ref="char:EOLhyphen"/>ting all thoſe your many Millions of people in this your Kingdome of England, who are not of the De<g ref="char:EOLhyphen"/>gree of the Nobilitie; That for as much as all men know how diſhonourable to God, how dange<g ref="char:EOLhyphen"/>rous to the ſoules of men, and to the peace both of Church and Common-wealth the ſeeds of erro<g ref="char:EOLhyphen"/>nious doctrines haue ever proued: as hath appea<g ref="char:EOLhyphen"/>red by that fearefull trouble which lately tren<g ref="char:EOLhyphen"/>ched into the Churches and ſtate of the Vnited Provinces in the Low-countries, by the peſtilent opinions of <hi>Arminius</hi> and ſuch as followed his partie; whereby the ſtate had beene utterly rui<g ref="char:EOLhyphen"/>ned, if our late moſt learned and prudent King; of happy memorie, your Majeſties moſt royall Fa<g ref="char:EOLhyphen"/>ther, had not provided for the repreſſing of that Fire, by a grane learned Synode convened at Dort, and conſiſting of choyſe and worthy Di<g ref="char:EOLhyphen"/>vines, not onely of the ſaid Vnited Provinces them ſelues, but divers others out of other Countries; that is to ſay; ſome out of yours his Majeſties Kingdomes of England and Scotland, and others out of France and Germany, Geneva and the Palatinate: In which godly Synode the ſaid <hi>o<g ref="char:EOLhyphen"/>pinions</hi> of the <hi>Arminians,</hi> after a mature delibera<g ref="char:EOLhyphen"/>tion and debate, were unanimouſly taxed, ad<g ref="char:EOLhyphen"/>judged
+<pb n="5" facs="tcp:157715:4"/>and condemned, as <hi>unſanorie, falſe, and daungerous poſitions:</hi> oppoſite to the Apoſtoli<g ref="char:EOLhyphen"/>call Doctrine and generall beliefe of the refor<g ref="char:EOLhyphen"/>med Churches: And whereas alſo vpon the maintainers thereof your Majeſties Royall Fa<g ref="char:EOLhyphen"/>ther (as a very able Defender of the Faith) by publike writing expreſſed and ſtamped his zea<g ref="char:EOLhyphen"/>lous Cenſure. <hi>That they were Haereticks, or ra<g ref="char:EOLhyphen"/>ther Atheiſticall Sectaries:</hi> And whereas the ſaid Determinations of that learned and generall Sy<g ref="char:EOLhyphen"/>node haue beene an occaſion of much quietneſſe in all the Low. Countries ever ſince; and haue beene alſo confirmed and approued not onely by the Nationall Synode of all the Reformed Chur<g ref="char:EOLhyphen"/>ches of France, convened at Charenton; but in Ireland alſo one of your Majeſties owne Do<g ref="char:EOLhyphen"/>minions: It may therefore pleaſe your Maje<g ref="char:EOLhyphen"/>ſtie for the preventions of great Miſchiefes and Inconveniences, which may grow and enſue within the Church and Common-wealth of this your Majeſties Kingdome of England, by the di<g ref="char:EOLhyphen"/>vulging of the like peſtilent opinions within the ſame, that it may bee enacted by the Autho<g ref="char:EOLhyphen"/>ritie of this preſent Parlament, that the ſaid determinations of the ſaid Synode, conſiſting of ſeuenteene Articles poſitiue and nine rejectiue or oppoſite, may ſtand and bee likewiſe annexed, received, ratified and eſtabliſhed with in this your ſaid Kingdome, as part of the doctrine of the Church of England.</p>
+                  <p>Againſt which, it ſhall not, or may not bee law<g ref="char:EOLhyphen"/>full for any to preach, write, or print any thing: But that ſuch as ſhall ſo doe, may
+<pb n="6" facs="tcp:157715:5"/>bee cenſured as the impugners of the Church of England and diſturbers of the peace thereof, &amp;c.</p>
+                  <trailer>Thus farre your religious <hi>Act</hi> in agitation at Oxford, againſt <hi>Haereſies and falſe Doctriue.</hi>
+                  </trailer>
+               </body>
+            </floatingText>
+            <p>And now, in its due place, we alſo preſent unto your view, your owne more particular Charge in your Articles exhibited by your Houſe of Com<g ref="char:EOLhyphen"/>mons againſt <hi>Mountagu,</hi> at Weſtminſter, in Par<g ref="char:EOLhyphen"/>lament, 2. <hi>Careli,</hi> 1626. which alſo remaines upon your Records as followeth;</p>
+            <floatingText xml:lang="eng" type="bill_of_attainder">
+               <body>
+                  <pb n="7" facs="tcp:157715:5"/>
+                  <head>
+                     <hi>MARCH. 1626.</hi> Articles exhibited by the Commons in Par<g ref="char:EOLhyphen"/>lament againſt <hi>RICHARD MOVNTAGV</hi> Clerke.</head>
+                  <p>THat hee the ſaid <hi>Richard Mountague</hi> in or a<g ref="char:EOLhyphen"/>bout the 21<hi rend="sup">th</hi> yeare of the raigne of our late So<g ref="char:EOLhyphen"/>veraigne King <hi>Iames</hi> (of famous memorie) hath cau<g ref="char:EOLhyphen"/>ſed to be printed and in his name to bee publiſhed, one booke called <hi>An anſwere to the late Gagger of Proteſtants,</hi> and in and about the 22<hi rend="sup">th</hi>, yeare of the ſame King, hee cauſed to be printed and publi<g ref="char:EOLhyphen"/>ſhed one other booke intituled, <hi>A Treatiſe of the In<g ref="char:EOLhyphen"/>vocation of Saints,</hi> And likewiſe in that firſt yere of his Majeſties Raigne that now is, he procured to bee printed and in his name to bee publiſhed, an other booke intituled, <hi>An appeale to Caeſar:</hi> in everie of which bookes, hee hath maintained and affirmed ſome doctrines contrary or repugnant to the <hi>Articles wherevpon it was agreed by the Archbiſhops and by<g ref="char:EOLhyphen"/>ſhops of both Provinces, and the Whole Clergie in the convecation holden at London, in the yeare of our Lord God,</hi> 1562. according to the computation of the Church of England, <hi>fer avoyding diverſicy of opini<g ref="char:EOLhyphen"/>ons, and for eſtabliſhing conſent touching true Religi<g ref="char:EOLhyphen"/>on;</hi> All which appeares in the places hereafter men<g ref="char:EOLhyphen"/>tioned, and in diuers other places and paſſages of the ſame bookes, and by his ſo doing hath broken the Lawes and Statutes of this Realme in that caſe provided, and very much diſturbed both the peace of the Church and Common-wealth.</p>
+                  <div type="article">
+                     <pb n="8" facs="tcp:157715:6"/>
+                     <head>1</head>
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="1"/> Wheras in the 35<hi rend="sup">th</hi>. Article of the Articles aboue-mentioned it is declared, That the ſecond booke of HOmilies doth containe a godly and wholeſome doctrine, In the 16<hi rend="sup">th</hi> Homily of which booke it is determined, That the Church of Rome as it is preſent, and hath beene for the ſpace of 900. yeares and odde, is ſo farre voyd from the nature of a true Church, that nothing can bee more, Hee the ſaid <hi>Richard Mountague</hi> in ſeverall places of his ſaid booke called,<note place="margin">Gagg. pag. App. p. <hi>136.</hi>
+                        </note> 
+                        <hi>The Anſwere to the Gagger,</hi> and in his other booke called the <hi>Appeale,</hi> doth adviſedly maintaine and affirme, that <hi>the Church of Rome is and euer was a true Church, ſince it was a Church.</hi>
+                     </p>
+                  </div>
+                  <div type="article">
+                     <head>2</head>
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="2"/> Whereas in the ſame Homily it is likewiſe de<g ref="char:EOLhyphen"/>clared, that the Church of Rome is not built vpon the foundation of the Prophets and Apoſtles, and in the 28<hi rend="sup">th</hi> Article of the ſaid Articles, that Tran<g ref="char:EOLhyphen"/>ſubſtantiation overthroweth the nature of a Sacra<g ref="char:EOLhyphen"/>ment. And in the 25<hi rend="sup">th</hi> of the ſame Articles, That fiue other reputed Sacraments of the Church of Rome are not to bee accompted Sacraments; yet contrary and repugnant heerevnto, hee the ſaid <hi>Ri<g ref="char:EOLhyphen"/>chard Mountague</hi> doth maintaine and affirme in his booke aforeſaid called,<note place="margin">Gag. pag. <hi>50</hi>
+                        </note> 
+                        <hi>The Anſwere to the Gag<g ref="char:EOLhyphen"/>ger;</hi> That <hi>the Church of Rome hath ever remained firme vpon the ſame foundation of Sacraments and do<g ref="char:EOLhyphen"/>ctrine inſtituted by God.</hi>
+                     </p>
+                  </div>
+                  <div type="article">
+                     <pb n="9" facs="tcp:157715:6"/>
+                     <head>3</head>
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="3"/> In the 19<hi rend="sup">th</hi>. of the ſame Articles, it is further determined, that the Church of Rome hath erred not onely in their living and manner of Ceremonies, but alſo in matters of faith, hee the ſaid <hi>Richard Moun<g ref="char:EOLhyphen"/>tague</hi> ſpeaking of thoſe points which belong to faith and manners, hope and Charitie, doth in the ſame Booke called <hi>the Gagger,</hi>
+                        <note place="margin">Gagg. p. <hi>14.</hi>
+                        </note> affirme and main<g ref="char:EOLhyphen"/>taine, That <hi>none of theſe are contreverted, inter par<g ref="char:EOLhyphen"/>tes,</hi> meaning the Proteſtants and the Papiſts, And notwithſtanding, That in the 31<hi rend="sup">th</hi>. Article it is reſolved, That the Sacrifices of <hi>Moſes</hi> in which as is commonly ſaid, That the Prieſt did offer <hi>Chriſt</hi> for the quicke and the dead, to hane remiſſion of paine and guilt, too, are blaſphemous fables and dan<g ref="char:EOLhyphen"/>gerous deceipts, This being one of the points contro<g ref="char:EOLhyphen"/>verted betweene the Church of England and the Church of Rome. The ſaid <hi>Richard Mountague</hi> in his booke called <hi>the Gagger</hi> doth affirme and maintaine,<note place="margin">Gagg. p, <hi>14.</hi>
+                        </note> 
+                        <hi>That the controverted points are of a leſſe and inferior Allay; Of them a may man be ignorant, without any danger of his ſoule at all, A man may reſolue or oppoſe this or that way within perill of periſhing for ever.</hi>
+                     </p>
+                  </div>
+                  <div type="article">
+                     <head>4.</head>
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="4"/> Whereas in the ſecond Homily (entituled <hi>againſt perill of Idolatry</hi>) contained in the foreſaid booke of HOmilies, approved by the 37<hi rend="sup">th</hi>. Article afore<g ref="char:EOLhyphen"/>mentioned, it is declared; That Images teach no good leſſon neither of good nor godlineſſe but all er<g ref="char:EOLhyphen"/>rour and wickedneſſe: Hee the ſaid <hi>Richard</hi> in the booke aforeſaid,<note place="margin">Gag. p. <hi>300.</hi>
+                        </note> called the <hi>Anſwere to the late Gag<g ref="char:EOLhyphen"/>ger</hi> doth affirme and maintaine, <hi>That Images may be vſed for the inſtruction of the ignorant and exitation of Devotion.</hi>
+                     </p>
+                  </div>
+                  <div type="article">
+                     <pb n="10" facs="tcp:157715:7"/>
+                     <head>5</head>
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="5"/> That in the ſame Homily it is plainly expreſſed, That the attributing the defence of certaine Coun<g ref="char:EOLhyphen"/>tries to Saints is a ſpoyling God of his honour. And that ſuch Saints are but as <hi>Dij Tutelares</hi> of the Gentile Idolatours. TLhe ſaid <hi>Richard ountague</hi> hath notwithſtanding in the Booke afore mentioned entituled,<note place="margin" type="runSum">Inv. p. <hi>107.</hi>
+                        </note> 
+                        <hi>A Treatiſe concerning the Invocation of Saints,</hi> affirmed and maintained: That <hi>Saints haue not onely a memorie, but a more peculiar charge of their friends, And that it may bee admitted, that ſome Saints haue a peculiar patronage,<note place="margin" type="runSum">108.</note> Cuſtody protection and power,<note place="margin" type="runSum">109.</note> as Angels alſo haue over certaine per<g ref="char:EOLhyphen"/>ſons and Countries by eſpeciall deputation,</hi> And <hi>that it is no impietie ſo to beleeue.</hi>
+                     </p>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Note that hee ſaith in his <hi>Appeale</hi> (108. and 109.) <hi>Shew me that the Saints haue knowledge of vs here, And J will not doubt to pray to them.</hi> So that hence it wil be evident, That <hi>Mountagu</hi> holds it lawfull <hi>to pray to Saints.</hi>
+            </p>
+            <floatingText xml:lang="eng" type="bill_of_attainder__cont.">
+               <body>
+                  <div type="article">
+                     <head>6</head>
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="6"/> Whereas in the 17<hi rend="sup">th</hi> of the ſaid Articles it is re<g ref="char:EOLhyphen"/>ſolved; That God hath conſtantly decreed by his Councell ſecret to vs to deliver from curſe and dam<g ref="char:EOLhyphen"/>nation, Thoſe whom hee hath choſen in Chriſt out of mankind, and to bring them by Chriſt to ever<g ref="char:EOLhyphen"/>laſting ſalvation; Wherefore, they which bee in<g ref="char:EOLhyphen"/>dued with ſo excellent a benefit of God, bee called according to Gods purpoſe working in due ſeaſon: They by grace obey the calling, they bee juſtified freely, walke religiouſly in good works, and at
+<pb n="11" facs="tcp:157715:7"/>length by Gods mercy attaine to everlaſting feli<g ref="char:EOLhyphen"/>citie.</p>
+                     <p>Hee the ſaid <hi>Richard Mountague</hi> in the booke a<g ref="char:EOLhyphen"/>foreſaid called the <hi>Appcale,</hi>
+                        <note place="margin">App. p. <hi>30.</hi>
+                        </note> doth maintaine and af<g ref="char:EOLhyphen"/>firme, <hi>that men juſtified may fall away and depart from that ſtate which once they had, they may riſe againe and become new men poſſible, but not certaine nor ne<g ref="char:EOLhyphen"/>ceſſarie,</hi> And the better to countenance this his opi<g ref="char:EOLhyphen"/>nion, hee hath in the ſaid Booke wilfully added fal<g ref="char:EOLhyphen"/>ſified and changed divers words of the 16<hi rend="sup">th</hi>. of the Articles, afore-mentioned. And divers other words both in the <hi>Booke of HOmilyes</hi> as in the <hi>Booke of Common Prayer.</hi>
+                        <note place="margin">App. p. <hi>29.31, 32.35.</hi>
+                        </note> And all the ſame places ſo miſ<g ref="char:EOLhyphen"/>recyted and changed, hee doth alledge in his ſaid booke called the <hi>Appeale,</hi> endeauouring thereby to lay a moſt wicked and malicious ſcandall upon the Church of England, as if it did herein differ from the Reformed Churches of Ireland, and from the Reformed Churches beyond the Seas, and did conſent to thoſe pernicious Errors, which are com<g ref="char:EOLhyphen"/>monly called <hi>Arminianiſme,</hi> and which the late fa<g ref="char:EOLhyphen"/>mous Princeſſe Queene <hi>Elizabeth</hi> and King <hi>James</hi> (of happy memorie) did ſo piouſly and diligently labor to ſuppreſſe.</p>
+                  </div>
+                  <div type="article">
+                     <head>2</head>
+                     <p>That hee the ſaid <hi>Richard Mountague</hi> contrary to his dutie and allegiance, hath endeavoured to rayſe great factions and diviſions in this Common-weale, by caſting the odious and ſcandalous name of Puri<g ref="char:EOLhyphen"/>tans vpon ſuch of his Majeſties loving ſubjects as conforme themſelues to the doctrine and Ceremo<g ref="char:EOLhyphen"/>nies of the Church of England, vnder that name laying vpon them divers falſe and malicious impu<g ref="char:EOLhyphen"/>tations,
+<pb n="12" facs="tcp:157715:8"/>ſo to bring them into Iealouſie and diſplea<g ref="char:EOLhyphen"/>ſure with his moſt excellent Majeſtie, and in<g ref="char:EOLhyphen"/>to reproach and ignominie with the reſt of the people, to the great danger of ſedition and di<g ref="char:EOLhyphen"/>ſturbance in the State, if it bee not timely pre<g ref="char:EOLhyphen"/>vented.</p>
+                  </div>
+                  <div type="article">
+                     <head>3.</head>
+                     <p>The ſcope and end of the ſaid <hi>Richard Moun<g ref="char:EOLhyphen"/>tague</hi> in the Bookes aforementioned, is to giue in<g ref="char:EOLhyphen"/>couragement to Poperie, and to withdraw his Majeſties ſubjects from the true Religion eſtabli<g ref="char:EOLhyphen"/>ſhed to the <hi>Roman Superſtition:</hi> and conſequently to be reconciled to the Sea of Rome. All which hee laboureth by ſubtill and cunning wayes, whereby Gods true Religion hath beene much ſcandalized, Thoſe miſchiefes introduced which the wiſedome of many Lawes hath endeavoured to prevent, the great perill and hazard of our Soveraigne Lord the King and of all his Dominions and loving Sub<g ref="char:EOLhyphen"/>jects.</p>
+                  </div>
+                  <div type="article">
+                     <head>4.</head>
+                     <p>That the aforeſaid <hi>Richard Mountague</hi> hath inſer<g ref="char:EOLhyphen"/>ted into the booke aforeſaid called the <hi>Appeale,</hi> divers paſſages diſhonourable to the late King his Majeſties Father (of famous memorie) full of bitterneſſe, rayling and injurious ſpeeches to other perſons, diſ<g ref="char:EOLhyphen"/>gracefull and contemptuous to many worthy Di<g ref="char:EOLhyphen"/>vines both of this Church of England, and of other reformed Churches beyond the Seas: Impious and prophane in ſcoffing at <hi>Preaching, meditating, con<g ref="char:EOLhyphen"/>ferring, Pulpits, Lectures, Bibles, and all ſhew of Re<g ref="char:EOLhyphen"/>ligion:</hi>
+                        <pb n="13" facs="tcp:157715:8"/>All which doe aggravate his former offences as having proceeded from malicious and invenomed hate againſt the peace of this Church and ſinceri<g ref="char:EOLhyphen"/>tie of the Reformed Religion publiquely profeſſed and by Lawes eſtabliſhed in this Kingdome.</p>
+                  </div>
+                  <div rend="italic" type="conclusion">
+                     <p>All which offences being to the high diſhonour of Al<g ref="char:EOLhyphen"/>mightie God and of moſt miſchievous effect and con<g ref="char:EOLhyphen"/>ſequence, againſt the good of his Church and Com<g ref="char:EOLhyphen"/>mon Weale of England, and of other his Majeſties Realmes and Dominions, The Commons aſſembled in Parlament doe hereby pray, that the ſaid <hi>Richard Mountagu</hi> may bee puniſhed according to his deme<g ref="char:EOLhyphen"/>rits, in ſuch exemplary manner, as may deterre others from attempting ſo preſumptuouſly to diſturbe the Peace of Church and State, and that the Bookes a<g ref="char:EOLhyphen"/>foreſaid may be ſuppreſt and burnt.</p>
+                  </div>
+                  <trailer>And thus farre, (O worthy Houſe) your religi<g ref="char:EOLhyphen"/>ous charge in your Articles exhibited, <hi>March</hi> 1626.</trailer>
+               </body>
+            </floatingText>
+            <p>But by the fatall diſſolution of thoſe firſt and ſe<g ref="char:EOLhyphen"/>cond Parlaments, that Act, and that your Charge in thoſe your Articles, ſlept; untill the laſt Parlament called or ſummoned to begin in March, and conti<g ref="char:EOLhyphen"/>nued untill Iuly 1628. During which ſitting, <hi>That your charge in thoſe your Articles,</hi> was awakened and in agitation againſt him, as wee heard. But by reaſon of other matters of high conſequence, and the ſuddaine Prorogation of that Parlament, It a<g ref="char:EOLhyphen"/>gaine fell aſleepe.</p>
+            <p>Now, upon the ending of that Seſſion, and breaking vp of the Houſe (And Byſhop <hi>Carleton,
+<pb n="14" facs="tcp:157715:9"/>Mountagu's</hi> learned Dioceſan and Antagoniſt dy<g ref="char:EOLhyphen"/>ing, during the ſitting of the Houſe) immediately after, <hi>Mountagu;</hi> by mediation of his potent Pa<g ref="char:EOLhyphen"/>tron, <hi>alijſque vijs ac modis,</hi> got his Majeſties grant of the Byſhopricke of Chicheſter; and ſoone after ſued out, as it ſeemes, his Congedelier for the ſame Byſhopricke: and in Auguſt following, according to cuſtome, Proclamation was was made at St. <hi>Mary le Bow</hi> Church-dore in theſe very words fol<g ref="char:EOLhyphen"/>lowing;</p>
+            <q>
+               <p>
+                  <hi>All manner of Perſons that can or will object againſt the Election of the Right Worſhipfull Mr.</hi> Richard Mountagu, <hi>Bacheſour of Diuinitie and Parſon of Petworth, Elected Lord Biſhop of Chicheſter, the forme of his Election or the partie Elected; Let them now ſpeake and object in due forme of Law, and they ſhallbee heard; otherwiſe they ſhall be pre<g ref="char:EOLhyphen"/>cluded.</hi>
+               </p>
+            </q>
+            <p>Vpon which Proclamation, 7, or 8. dayes before the day of Confirmation of the ſaid elected Byſhop, (and <hi>all manner of men</hi> beeing thereby invited <hi>to object,</hi>) it pleaſed God to ſtirre up the heart of one honeſt Chriſtian man to take Councell and get ob<g ref="char:EOLhyphen"/>jections drawne, by an ancient Doctour of the Arches: which Obiections were extracted out of the forenamed Articles in Parlament: And upon Fryday the 22. of Auguſt, when the aforeſaid E<g ref="char:EOLhyphen"/>lect Byſhop came to Bow-Church to be Confirmed, and the aforeſaid Proclamation was againe by the Beadle of the Arches audibly 3. times pronounced in the Church, one Mr. <hi>Iones</hi> by name (an honeſt and auncient Profeſſour of Religion) did obiect, whereof wee hope this ſacred Senate is already
+<pb n="15" facs="tcp:157715:9"/>poſſeſt, and preſented the Obiections, in writing (drawne as is before ſaid, by a Doctour of the Arches) unto Doctour <hi>Rives</hi> then ſubſtituted Iudge for the buſineffe, and ſaid, with an audible voyce, 3. times, <hi>I object againſt him, and heere are my objections in due forme of Law:</hi> The Copie of which his Obiections, is heere alſo preented unto your view: (which chiefly concerneth you the Worthies of the Houſe of Commons, be<g ref="char:EOLhyphen"/>cauſe they were drawne out of your owne former Charge:) and it is <hi>Verbatim</hi> as fol<g ref="char:EOLhyphen"/>loweth;</p>
+            <floatingText xml:lang="lat" type="objections_to_articles">
+               <body>
+                  <pb n="16" facs="tcp:157715:10"/>
+                  <opener>
+                     <dateline>
+                        <date>22<hi rend="sup">o</hi>. Auguſti, 1628.</date> in Eccleſia Sanctae Mariae de Arcubus.</dateline>
+                  </opener>
+                  <p>In DEi nomine Amen. Coram vobis Reverendiſſimo &amp; honorando Patre Georgio divina providentia Cantuarienſ. Archiepiſc. veſtrove Deligato, Of<g ref="char:EOLhyphen"/>ficiali, <g ref="char:V">Ʋ</g>icario in ſpiritualibus generali, ejuſve Surrogato ant alio Iudice Iudicibuſve in hac parte competen. ſeu competitur. Willielmus Iones litera<g ref="char:EOLhyphen"/>tus Stationarius Londinenſis, omni quo poſſit aut de<g ref="char:EOLhyphen"/>bet meliori via modo &amp; juris forma, nec non ad om<g ref="char:EOLhyphen"/>nem, quecun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> juris effectum exinde quoviſmodo ſequi valen. nomine accuſatorio ac vt accuſator. Ric<hi>
+                        <hi rend="sup">di</hi>.</hi> Mountagu Clerici nuper in Epiſcopatum Ciceſtrenſ. vt dicitur electi, accuſando querelando obijciendo &amp; excipiendo contra prefat. Ricardum Mountagu Clericum &amp; ad impediendum juxta Iuris in hac parte exigentiam &amp; non aliter promo<g ref="char:EOLhyphen"/>tionem &amp; confirmationem ipſius Ricardi in Epiſcop. ſic vt prefertur electi comperuit dictus Willielmus Iones allegando dicendo querelando accuſando &amp; ob<g ref="char:EOLhyphen"/>ijciendo articulatim vt ſequitur.</p>
+                  <div xml:lang="eng" type="article">
+                     <head>1.</head>
+                     <p>
+                        <hi>IN primis,</hi> That you the ſaid <hi>Richard Mountagu</hi> haue cauſed to be printed and in your name to be publiſhed, one Booke called <hi>An Anſwere to the late Gagger of Proteſtants,</hi> and one other Booke entitu<g ref="char:EOLhyphen"/>led <hi>A Treatiſe of the Invocation of Saints,</hi> and a third booke entituled <hi>An Appeale to Caeſar.</hi> In every of which bookes you haue maintained and affirmed ſome doctrines contrary and repugnant to the Articles whereupon it was agreed by the Arch<g ref="char:EOLhyphen"/>biſhops
+<pb n="17" facs="tcp:157715:10"/>and Byſhops of both Provinces, and the whole Clergie in the Convocation holden at <hi>London</hi> in the yeare of our Lord God, 1562. according to the computation of the Church of England for a<g ref="char:EOLhyphen"/>voyding of diverſitie of opinions, and for eſtabliſh<g ref="char:EOLhyphen"/>ing conſent touching true Religion; And by your ſaid <hi>Delicts</hi> you have broken the lawes and Statutes of this Realme in that behalfe provided: And you thereby haue very much diſturbed the peace of the Church and Common-wealth, to the high diſho<g ref="char:EOLhyphen"/>nour of Almighty God. Which your Bookes are Confuted by the late right reverend Biſhop <hi>Carleton</hi> and divers other Orthodox and conformable Di<g ref="char:EOLhyphen"/>vines of the Church of England. And I Article and object, <hi>Conjunctim aiviſim &amp; de quolibet.</hi>
+                     </p>
+                  </div>
+                  <div xml:lang="eng" type="article">
+                     <head>2</head>
+                     <p>
+                        <hi>Item,</hi> That you the ſaid <hi>Richard Mountagu</hi> in ſeverall places of your ſaid Booke called <hi>the Gagger,</hi> and in your other booke called <hi>the Appeale,</hi> doe and haue adviſedly maintained and affirmed, That <hi>the Church of Rome is and ever was a true Church,</hi> con<g ref="char:EOLhyphen"/>trary to the Sixteenth Homilie of the ſecond booke of Homilies, and as is declared in the 35. Article of the aforeſaid Articles, And I object as aforeſaid.</p>
+                  </div>
+                  <div xml:lang="eng" type="article">
+                     <head>3</head>
+                     <p>
+                        <hi>Item,</hi> That you the ſaid <hi>Richard Mountagu</hi> doe maintayne and affirme in your aforeſaid booke, the <hi>Anſwere to the Gagger;</hi> That <hi>the Church of Rome hath ever remained firme upon the ſame foundation of Sacraments and Doctrine inſtituted by God:</hi> Contra<g ref="char:EOLhyphen"/>ry to the Homily laſt named, and as is declared in the 28. Article of the ſaid-Articles. And I object as aforeſaid.</p>
+                  </div>
+                  <div xml:lang="eng" type="article">
+                     <pb n="18" facs="tcp:157715:11"/>
+                     <head>4</head>
+                     <p>
+                        <hi>Item,</hi> That you the ſaid <hi>Richard Mountagu</hi> in your booke called the <hi>Anſwere to the Gagger,</hi> doe and haue maintayned and affirmed, That <hi>Images may bee vſed for the inſtruction of the ignorant;</hi> Con<g ref="char:EOLhyphen"/>trary to the ſecond Homily intituled, <hi>against perill of Idolatry;</hi> which is approved by the 37. Article of the Articles aforeſaid. And I obiect as aforeſaid.</p>
+                  </div>
+                  <div xml:lang="eng" type="article">
+                     <head>5</head>
+                     <p>Item, <hi>That you the ſaid</hi> Richard Mountagu <hi>in your</hi> Treatiſe of the Invocation of Saints, <hi>doe and haue affirmed and maintained, that</hi> Saints haue not onely a memorie, but a more peculiar charge of their friends, <hi>and that</hi> it may bee admitted that ſome Saints haue a peculiar patronage, Cuſtody protection and po<g ref="char:EOLhyphen"/>wer, as Angels haue alſo, over certaine perſons and Conntries by eſpeciall deputation, <hi>and</hi> that it is no im<g ref="char:EOLhyphen"/>piety ſo to beleeue; <hi>Contrary to the doctrine in the Homily aforeſaid: And I object as aforeſaid.</hi>
+                     </p>
+                  </div>
+                  <div xml:lang="eng" type="article">
+                     <head>6</head>
+                     <p>
+                        <hi>Item,</hi> That you the ſaid <hi>Richard Mountagu</hi> in your ſaid booke called <hi>the Appeale,</hi> doe maintayne and haue maintayned and affirmed, that <hi>men juſtified may fall away and depart from that ſtate which once they had,</hi> and <hi>that they may riſe againe, and poſſibly be<g ref="char:EOLhyphen"/>come new men, but not certaine or neceſſary;</hi> And the better to maintaine this your opinion you haue in the ſame booke wilfully added, falſified and changed divers words of the 16. Article of the booke of Ar<g ref="char:EOLhyphen"/>ticles aforeſaid, and divers other words both in the booke of Homilies, and alſo in the booke of Com<g ref="char:EOLhyphen"/>mon prayer, And all the ſame places are ſo by you
+<pb n="19" facs="tcp:157715:11"/>miſrecited and changed in your ſaid booke called <hi>the Appeale to Caeſar,</hi> and you doe and haue endeauou<g ref="char:EOLhyphen"/>red thereby to lay a moſt wicked and malicious Scandall vpon the Church of England, as if it did herein differ from the reformed Churches beyond the Seas, and you did and doe conſent to thoſe per<g ref="char:EOLhyphen"/>nicious Errors which are commonly called <hi>Armini<g ref="char:EOLhyphen"/>aniſme,</hi> and which the late famous Princes, Queene ELIZABETH, and King IAMES (of moſt hap<g ref="char:EOLhyphen"/>pie and bleſſed memorie) did piouſly and diligently labour to ſuppreſſe: And I object as aforeſaid.</p>
+                  </div>
+                  <div xml:lang="eng" type="article">
+                     <head>7</head>
+                     <p>
+                        <hi>Item,</hi> That you the ſaid <hi>Richard Mountagu</hi> in all your three ſeuerall Bookes afore-named, doe main<g ref="char:EOLhyphen"/>tayne and haue maintayned and affirmed divers o<g ref="char:EOLhyphen"/>ther vnſound and hereticall Doctrines and opinions, as is at large proued in the bookes of Confutation of your ſaid bookes; which you haue, nor cannot re<g ref="char:EOLhyphen"/>ply vnto; And I object as aforeſaid.</p>
+                  </div>
+                  <div xml:lang="lat" type="article">
+                     <head>8</head>
+                     <p>Item, quod prefati Willielmus Iones &amp; Richardus Mountagu Clericus ſuerunt reſpectiue &amp; ſunt pro<g ref="char:EOLhyphen"/>vinc. veſtrae Cantuarienſ. juriſdictionis veſtrae ſubſiditi in hac parte; &amp; obijcit vt ſupra.</p>
+                  </div>
+                  <div xml:lang="lat" type="article">
+                     <head>9</head>
+                     <p>Item, quod omnia &amp; ſingula premiſſa ſunt vera pub<g ref="char:EOLhyphen"/>lica notoria publica &amp; manifeſta tam infra Civitatem &amp; Dioc. London &amp; alia loca publica &amp; famoſa infra Regnum Angliae; &amp; obijcit vt ſupra.</p>
+                     <pb n="20" facs="tcp:157715:12"/>
+                     <p>Omnia &amp; ſingula premiſſa proponit &amp; obijcit dictus Willielmus Jones conjunctim &amp; diviſim non arctan. ſe ad omnia &amp; ſingula premiſſa probanda nec ad onus ſu<g ref="char:EOLhyphen"/>perflue probationis, de quo proteſtatur, ſed quatenus pro<g ref="char:EOLhyphen"/>baverit in premiſſis catenus obtineat in petitis ſub pro<g ref="char:EOLhyphen"/>teſtatione de addendo premiſſis, eadem<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> magis ſpecifice declarando &amp; ſpecificando eadem<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> probando pro loco &amp; tempore congruis &amp; oportunius, ſemper ſibi ſalvo omni Iuris beneficio in hac parte ſibi competen. ſeu competitur ea<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> proteſtatione ſibi ſemper ſalva petit Articulos Capitula ſive Interrogatoria ſua predicta ad omnem Iuris effectum admitti partem<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> aduerſam eijſdem &amp; corum cuilibet ſecundum Iuris extigentiam respondere compelli &amp; proteſtatur de expenſis. Et petit Jus &amp; Iu<g ref="char:EOLhyphen"/>ſticiam (veſtrum Officium Domine Judex antedict. hu<g ref="char:EOLhyphen"/>militer implorando.</p>
+                  </div>
+                  <closer>
+                     <signed>Per me Willielmum Iones.</signed>
+                  </closer>
+                  <trailer>Thus farre the Objections of the Objectour <hi>in due forme of Law:</hi>
+                  </trailer>
+               </body>
+            </floatingText>
+            <p>And judge, O judge; yee worthie Iudges of the Houſe, whether theſe objections were not <hi>in due of Law.</hi>
+            </p>
+            <p>But the Iudge aforenamed, taking the paper of Objections; firſt ſeemed to read them ouer ſilently to himſelfe, and then delivered them to the ſaid Elect Biſhop <hi>Mountagu:</hi> who ſeemed alſo to read them o<g ref="char:EOLhyphen"/>ver ſilently to himſelfe, and then with an vntoward looke and trembling hand, gaue the paper backe to the Iudge; Who, called to him one Doctour <hi>Samms</hi> of the Arches, adviſing with him what to doe in the buſineſſe, and hee told him hee would runne into a <hi>Praemunire</hi> if hee did not proceed: Who thereupon
+<pb n="21" facs="tcp:157715:12"/>gaue the Obiectour Mr. <hi>Iones</hi> an anſwer to this effect: <hi>My friend, you haue giuen heere Objections againſt this my Lord elect of Chicheſt or: but your Ob<g ref="char:EOLhyphen"/>jections are not in due forme of Law, becauſe they haue not a Doctour of the Arches hand vnto them, neither haue you an Advocate to plead your Objections; There<g ref="char:EOLhyphen"/>fore, nevertheleſſe, by vertue of this his Majeſties Com<g ref="char:EOLhyphen"/>miſſion vnder the Great Seale (which hee tooke in his hand and turned) I will proceed to confirme him:</hi> And ſo did.</p>
+            <p>Now Iudge, O Iudge, againe, (thrice Iudi<g ref="char:EOLhyphen"/>cious Iudges) whether any perſon bee not invited by the former Proclamation to obiect, <hi>in due forme of Law:</hi> And whether any Doctours hand or Ad<g ref="char:EOLhyphen"/>vocate are thereby required: And beſides, the Court at that time for Confirmation is not any Court for pleading; What need therefore had the Obiectour of any Doctours hand or Advocate? He himſelfe ſetting his hand vnto it and being there, <hi>Ore tenus.</hi>
+            </p>
+            <p>Then when the Iudge had with a ſtrong hand pe<g ref="char:EOLhyphen"/>remptorily proceeded in the Confirmation of the a<g ref="char:EOLhyphen"/>foreſaid elect Byſhop <hi>Mountagu;</hi> This new con<g ref="char:EOLhyphen"/>firmed <hi>Pontifex</hi> ſtill with a brazen face and whoriſh forehead, made an Apologie for himſelfe and his Bookes, and ſaid moſt impudently, to this effect;</p>
+            <p>
+               <hi>That he himſelfe had ſubſcribed to the Booke of Ar<g ref="char:EOLhyphen"/>ticles, and the Booke of Homilies, and all other Books of Conformitie to the Church of England; and that if any whoſoever could publikely or privately confute thoſe his Bookes, hee would bee the firſt man that would cauſe thoſe his Bookes to bee burnt</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Whereas, it is moſt manifeſt (as before) <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>inſt the
+<pb n="22" facs="tcp:157715:13"/>Doctrine of thoſe Bookes of Articles, and Homifies, &amp;c. And who knoweth not? his owne Bookes are confuted by divers learned and pious men, as in the premiſſes: his Bookes condemned by a charge in Parlament, and other reformed Churches as in the premiſſes alſo: Natherleſſe this Gamaliel, highly ap<g ref="char:EOLhyphen"/>plauded with adulation this his confirmed Biſhops (baſe) Apologie, and ſaid: <hi>You haue well ſaid my Lord: and he alſo</hi> ſaid, <hi>That thoſe Objections were nothing but the blattering of a Tradeſman, who was too buſie to meddle with ſuch high myſteries of Divini<g ref="char:EOLhyphen"/>tie: but indeed it was the diſeaſe of the Time now for mechanicall Tradeſmen ſo to doe, &amp;c.</hi>
+            </p>
+            <p>Alſo the aforeſaid Doctour <hi>Rives,,</hi> and one <hi>Drake</hi> the Regiſter, and one <hi>Fiſh</hi> the Proctour, (all three employed in the ſaid Confirmation) did all joyntly vſe other diſgracefull, ſcoffing, ſcorne<g ref="char:EOLhyphen"/>full and geering words, geſtures. and behavi<g ref="char:EOLhyphen"/>ours towards the Objectour, and the Objections: They alſo checked and taunted a religous Gentle<g ref="char:EOLhyphen"/>man who tooke the Objectours part: Whereof there were divers, not a few, we may ſay, a Cloud of witneſſes, and ſome of them Minaſters, our Bre<g ref="char:EOLhyphen"/>thren, there preſent, the reverend Rectour of the Church, and others: So as, We doe alſo complaine to this Honourable Houſe, of Doctour <hi>Rives,</hi> Do<g ref="char:EOLhyphen"/>ctour <hi>Samms, Drake</hi> and <hi>Fiſh,</hi> who all foure wee perceiue to bee Delinquents in the buſineſſe: and none ſo fit as the Objector afore-named to produce witneſſes to this Honourable and Noble Senate of the ſame:</p>
+            <p>The third day after this day of Confirmation, be<g ref="char:EOLhyphen"/>ing Sonday, or the Lords day, <hi>Mountagu</hi> came to be Conſecrated by the moſt reverend Archbyſhop
+<pb n="23" facs="tcp:157715:13"/>of Canterbury, then reſiding at Croydon, who, as it ſeemes, had no knowledge of the Objections: (concealed by <hi>Mountagu</hi> and his Adhaerents:) And the Ceremonies of Conſecration were performed: Onely this happened, as we are informed, whiles <hi>Mountagu</hi> and his fautors were ſitting at the feaſt or dinner of Conſecration, the newes was brought to the moſt Reverend Archbiſhop, that the Duke of Buckingham (<hi>Mountagu's</hi> potent Patron) was ſtabb'd to death at Portſmouth, (and that on Saturday, the day after and a<g ref="char:EOLhyphen"/>bout the ſame houre that <hi>Mountagu</hi> was op<g ref="char:EOLhyphen"/>poſed in his Confirmation;) which for the time as they ſay, helped to marre <hi>Mounta<g ref="char:EOLhyphen"/>gu's</hi> myrth: and eſpacially ſtopped the chir<g ref="char:EOLhyphen"/>ping of a certaine Wren, which Bird, com<g ref="char:EOLhyphen"/>ming lately out of an vncleane Cage, be<g ref="char:EOLhyphen"/>gan to ſtraine high his laſcivious notes to make muſicke againſt godly Miniſters, &amp;c.</p>
+            <p>Nevertheleſſe, by this time, you may ſee <hi>Moun<g ref="char:EOLhyphen"/>tagu</hi> in his <hi>Pontificalibus,</hi> Elect, Confirmed and Conſecrated Byſhop of Chicheſter, in deſpight of all Oppoſition: and as hee is in his <hi>Pontificalibus,</hi> now to bee ranked <hi>inter Dominos Spirituales.</hi>
+            </p>
+            <p>Good Lord! Hee who by the doome of God,<note place="margin">
+                  <hi>Tit.</hi> 3.10.</note> in his Word, and all good Orthodox men, not thought worthy to liue, at leaſtwiſe not to enjoy any further Spirituall promotion in our Reformed Church of England, nor ever could haue the grace of the Vniverſitie to Commence ſo much as Doctour in Divinitie: and in ſtead of bee<g ref="char:EOLhyphen"/>ing cenſured by Parlament and degraded from any Miniſteriall office: Hee, wee ſay, to become
+<pb n="24" facs="tcp:157715:14"/>a Byſhop and a Governour in our Church! woe muſt needs bee to that Dioceſſe, eſpecially, that hath ſuch a Byſhop, ſuch a Governour. Yea, it is well knowne, hee ſpareth not already ſince his Conſecration, to ſay and ſweare in his Table-talke, hee will plague the Puritans in his Dioceſſe? And they ſay he hath already ſilenced ſome Lecturers) and by Puritans his meaning is alwayes, according to his garb and writings, all honeſt <hi>Orthodox Di<g ref="char:EOLhyphen"/>vines,</hi> that due oppoſe and will not adbaere vnto his unſound and unſavorie opinions and Doctrines; though they other wiſe bee never ſo conformable to the orders and Caeremonies of the Church of England.</p>
+            <p>And theſe his Errours and Haereſies are ſo noto<g ref="char:EOLhyphen"/>rious and manifeſt, both by his writings, as in the premiſſes and in his Preachings, when he gets into the Pulpit, that all the water in the (Pontifi<g ref="char:EOLhyphen"/>cian) Sea of Chicheſter can never waſh off theſe blacke ſtaines from him: For, can a Leopard change his ſpots?</p>
+            <p>Let vs craue leaue of this honourable Houſe, a little to digreſſe: And then We are alſo not to con<g ref="char:EOLhyphen"/>ceale but reueale unto You, that this notable Moun<g ref="char:EOLhyphen"/>tebank is familiarly acquainted with divers knowne Papiſts who haue reſort unto him, hee recourſe unto them. and by name which wee can proue, hee hath often priuate conference with one <hi>Hugh Holland,</hi> a profeſſed Papiſt and ſworne ſlaue to his Lord God the Pope; and ſome ſay a lay-Ieſuite, (if there bee any ſuch order:) however a ruffianly Locuſt, and ſeducer of the Kings Liege-people, a vilifier of Parlaments: And what this fellow elſe is our reverend brother the Rector of <hi>Fan</hi>-church can
+<pb n="25" facs="tcp:157715:14"/>can, if hee be pleaſed; informe this Houſe: And ſo wee leaue this baſe Aſſociate of B. <hi>Mountagu,</hi> and returne to himſelfe.</p>
+            <p>
+               <hi>But how long, therefore, how long Lord, moſt holy, moſt wiſe, moſt juſt and true? Wilt thou ſuffer the Grapes of the <g ref="char:V">Ʋ</g>intage to bee deſtroyed, the Corne of thy Harveſt to bee ſpoyled by ſuch a Fex, ſuch a Wolfe, and ſuch like Foxes and Wolves?</hi> (For more uncleane Birds there bee of the ſame Cage, &amp;c. as will appeare hereafter in our Catalogue of them.)</p>
+            <p>Pardon, O pardon, our digreſſion and fervent de<g ref="char:EOLhyphen"/>precation; ſince our zeale, in Gods cauſe, hath tranſ<g ref="char:EOLhyphen"/>ported us ſo farre. And now returne wee, moſt ho<g ref="char:EOLhyphen"/>norable Houſe, out Appeale unto You; and to draw to a Concluſion therof; A mongſt your many weigh<g ref="char:EOLhyphen"/>tie matters and of high Conſequence for Church and Common-wealth, Wee moſt humbly ſuppli<g ref="char:EOLhyphen"/>cate that this new made Byſhop <hi>Mountagu,</hi> who though hee now raungeth him ſelfe amongſt the Spirituall Lords and temporall Peeres in the Vpper Houſe of this high Aſſemblie of Parlament, may yet bee taken into conſideration, that hee may no lon<g ref="char:EOLhyphen"/>ger Lord it over Gods people and his Heritage,<note place="margin">2. <hi>Pet.</hi> 5.3.</note> us the poore (deſpiſed) orthodox Miniſters of the Goſpell in this Church of England; And that hee having deſerved (as wee conceiue) rather Fire and faggot than further Preferment, may come mature<g ref="char:EOLhyphen"/>ly to bee cenſured and degraded; if the Houſe ſhall ſo be pleaſed at the leaſt, by this High and honoura<g ref="char:EOLhyphen"/>ble Court, and his pernicious Bookes to be at length called-in and burned. The which, againe, wee moſt humbly implore on our bended knees, and That for GOD our Creatours ſake, for CHRIST
+<pb n="26" facs="tcp:157715:15"/>our Redeemers ſake, for the holy Spirit our Com<g ref="char:EOLhyphen"/>forters ſake: Vnto which Almightie and All-ſuffi<g ref="char:EOLhyphen"/>cient Three in One, Wee moſt humbly commend and betake You all of this honourable Court, and your ſerious Conſultations for Church and Com<g ref="char:EOLhyphen"/>mon-wealth.</p>
+            <closer>
+               <signed>By thoſe that daily and inceſſantly pray for the Peace of Syon and Conſolation of Ieruſalem, The orthodox Miniſters of the Church of England.</signed>
+            </closer>
+            <postscript>
+               <head>Poſt-ſcript.</head>
+               <p>IF this Honorable Houſe (or any other whatſoever) ſhall doubt of the aſſent of our Brethren of the Church of England to this our Appeale or Remonſtrance, Wee pray, let any by deputation from the Houſe (or other) take the paines to goe and get the hands of Byſhops and Miniſters in every Dioceſſe of the Kingdome, and wee the exhibiters hereof (being on good grounds well aſſu<g ref="char:EOLhyphen"/>red) will pawne our liues, that the <hi>major</hi> part of By<g ref="char:EOLhyphen"/>ſhops and Miniſters will ſubſcribe thereto: And then wee hope it will not bee denyed but the <hi>major</hi> part of the Clergie is the Church of England: <hi>Ergo</hi> the whole Church of England is against this one man B. <hi>Moun<g ref="char:EOLhyphen"/>tagu.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="27" facs="tcp:157715:15"/>
+            <head>An Epiſtle of the aforeſaid orthodox Miniſters of the Church of England, to Byſhop <hi>MOVNTAGV</hi> himſelfe.</head>
+            <p>SIR, although you haue betrayed the Truth and wounded our Mother the Church of England; yet in a charitable hope that you haue not commit<g ref="char:EOLhyphen"/>ted the unpardonable Sinne, <hi>Grace bee with you and Peace,</hi>
+               <note place="margin">1. <hi>Cor.</hi> 1.</note> 
+               <hi>from God our Father and from the Lord Jeſus Christ: Wee your Brethren,</hi> till you ſhooke off fraternitie with us, <hi>dee beſeech you by the name of our Lord Ieſu Christ, that you would bee reconciled to the Church of England, our deereſt Mother: that you with vs, may ſpeake one thing, and there bee no further diſſentions betweene you and vs, but let vs bee knit together in one minde and one judgement:</hi> That in the end, if it bee poſſible, your ſoule may be ſaved.</p>
+            <p>Which your Reconciliation muſt bee by your publike Recantation of your daungerous and mali<g ref="char:EOLhyphen"/>cious errours and Haereſies, againſt God, his Truth, and good men. Away then with and for ſhame abandon <hi>your totall Tenents of finall fallings away from Grace:</hi> Away with <hi>your odious termes against or<g ref="char:EOLhyphen"/>thodox Divines:</hi> Away with <hi>your impious and pro<g ref="char:EOLhyphen"/>phane ſcoffing at Preaching; meditating, conferring, &amp;c.</hi> Away with <hi>your Images for exitation of devo<g ref="char:EOLhyphen"/>tion:</hi> Away with <hi>your praying to Saints:</hi> Away with all other your Trumperies, Opinions &amp; Doctrines: which your Impieties haue wrought higher then the
+<pb n="28" facs="tcp:157715:16"/>and doe cry at Heaven gates for Vengeance: and which are raked out of the ſinkes and puddles of <hi>Pelagianiſme, Arminianiſme</hi> and <hi>Papiſme:</hi> and thoſe your mungrill Haere-ſchiſmes, in fine, will yield you no ſound comfort, but bee ſuch miſerable comforters unto you in the day and houre of death (when as one dram of the Truth defended will ſtand one in more ſteed than 1000. Tene<g ref="char:cmbAbbrStroke">̄</g>ts ſophiſtically maintained) that they will ſinke you irrecoverably into the infernall Tophet, without true and ſound Repentance before-hand: And Sir, bee you not aſhamed to make your publike Recantation, but conſider greater Clerkes than your ſelfe haue made their publike Recantations, and haue gotten honour not infamie by it: <hi>viz.</hi> Mr. <hi>Barret</hi> at Cambridge, in St. <hi>Maries</hi> Church, Doctor <hi>Allabaſter,</hi> Doctor <hi>Sheldon,</hi> Mr. <hi>Higgons,</hi> theyr ſpontaneous Recantati<g ref="char:EOLhyphen"/>ons from Popiſh Prieſthood were publikely preach<g ref="char:EOLhyphen"/>ed at <hi>Pauls</hi> Croſſe, and afterwards printed to the Worlds publike view: and divers others, whom wee need not recite.</p>
+            <p>All which conſidered; Wee now adjure you, in the name of the Lord IESVS, to make your Re<g ref="char:EOLhyphen"/>cantation, without which you can never haue Salva<g ref="char:EOLhyphen"/>tion: Sir, Remember the fatherly Admonitions and Counſell that the moſt Reverend Father the Archbi<g ref="char:EOLhyphen"/>ſhop of Canterburie gaue you at your Conſecrati<g ref="char:EOLhyphen"/>on. Away then with your private excuſatorie Let<g ref="char:EOLhyphen"/>ters to his Grace or other great perſonages, farced full of idle apologizing ſtuffe: which indeed is no<g ref="char:EOLhyphen"/>thing but dawbing with untempered morter.</p>
+            <p>But if for all this, you will not recant nor bee re<g ref="char:EOLhyphen"/>conciled to us, and ſtill perſiſt peremptorily in your dangerous doctrines, and maintaine your impieties,
+<pb n="29" facs="tcp:157715:16"/>Know aſſuredly that as you haue laboured to bee chronicled in <hi>Caſſaneus</hi> his <hi>Catalog us Gloriae Mundi:</hi> ſo you are like in the next edition of <hi>Schlaſſelburgius</hi> his <hi>Catalogus Hariticorum</hi> to haue your name enrol<g ref="char:EOLhyphen"/>led. When as our godly and reverend brethren who haue confuted your bookes, wee doubt not, ſhall bee remembred in the <hi>Catalogus Teſtium Veri<g ref="char:EOLhyphen"/>tatis,</hi> on Earth,<note place="margin">
+                  <hi>Dan.</hi> 12.3.</note> and ſhine as Stars in the Firmament of Heaven.</p>
+            <p>And good Sir giue vs leaue, by the way; to aske you, <hi>Of what Religion are you?</hi> The name of <hi>Pro<g ref="char:EOLhyphen"/>teſtant</hi> you denie; <hi>Papiſt</hi> you will not be: <hi>Pelagian</hi> or <hi>Arminian</hi> you cannot endure: (and yet by your writings you ſalute and ſhake hands with all:) and for the name of <hi>Chriſtian,</hi> that you abhorre, and hold it Puritannicall. Well, goe too Sir, your name <hi>Mountagu,</hi> (and 'tis pitie you beare that Name, whereof there is ſo noble and religious a Familie, the <hi>Mountagu's of Northampton-ſhire:</hi>) wee trow you will not deny: Your <hi>hotch-pot Doctrines</hi> and <hi>ſquint-ey'd Divinitie</hi> ſhall bee <hi>Mountaguiſme,</hi> your Diſciples and Adhaerents <hi>Mountaguiſts:</hi> for you affect to bee head of a Sect: there's your Ambiti<g ref="char:EOLhyphen"/>on, and that wee hope will pleaſe you, to bee enrol<g ref="char:EOLhyphen"/>led, (wee ſay) in the <hi>Catalogue of Haereticks,</hi> with thoſe damned old Haereticks, <hi>Arrius, Sccinus, Pe<g ref="char:EOLhyphen"/>lagius:</hi> and the more moderne and little better <hi>Arminius, <g ref="char:V">Ʋ</g>orſtius,</hi> and your old acquaintance <hi>Belga Thomſonius,</hi> who did more hurt in the V<g ref="char:EOLhyphen"/>niverſitie, by his Arminianiſme, Libertiniſme and Epicuriſme, than 1000. Drunkards will ever doe good, &amp;c.</p>
+            <p>And now S<hi rend="sup">r</hi>. ſaving the Reverence of your Bi<g ref="char:EOLhyphen"/>ſhopricke, Remember your Originall, (for ſome
+<pb n="30" facs="tcp:157715:17"/>of us, haue knowne you <hi>ab origine,</hi>) your meane birth &amp; parentage, (we ſay not a Carter or Plough<g ref="char:EOLhyphen"/>mans ſonne,) neere <hi>Okingham</hi> in Berkeſhire: at whoſe Coſt you were brought up at <hi>Eaton</hi> College-Schoole and at the Kings College in the Vniuerſitie; (at either of which places, if God had giuen grace, you might haue imbibed better things;)</p>
+            <p>Certes, Sir <hi>Henry Sauile,</hi> that worthy and lear<g ref="char:EOLhyphen"/>ned Knight (deceaſed,) when hee employed you in his Greeke Chryſoftomes <hi>
+                  <g ref="char:V">Ʋ</g>ariae Lectiones,</hi> had more hope of you than to haue proved ſuch an ill member in the Church. But it is no marveile, and you may remember that that Reverend By ſhop of <hi>Winton,</hi> of the Honorable Houſe afotenamed; (now with God) when you were his Chaplaine, told you eft-ſoones (Prophetically) <hi>You would never doe good in the Church.</hi>
+            </p>
+            <p>And if none of theſe things will ſerue to humble you nor to take downe the Pride of your heart, (for all Errours, Haereſies and Schiſmes, ariſe through pride of heart) Remember yet how God hath by nature marked you with a <hi>ſiniſtrall or Gotiſh looke,</hi> promiſing no good to his Church and Chil<g ref="char:EOLhyphen"/>dren, whom he hath promiſed ſhall ſit on his <hi>Right-band:</hi> And if this neyther will ſerue to humble you, Wee muſt and doe leaue you to bee humbled and cenſured by that High and Honourable Court of Parlament, vnto whom wee haue appealed againſt you: And wee hope your Errours and Haereſies are ſo notorious, that your ſhuffling and intruding from beeing Parſon of Petworth to bee Byſhop of Chicheſter, and ſo to bee accompted a Spirituall Lord of the Vpper Houſe will not ſerue to protect you: For, haue wee not (within the revolution
+<pb n="31" facs="tcp:157715:17"/>of not many yeeres) ſeene a bigger Biſhop than your ſelfe brought neere cenſure and on his knees to the Houſe? haue wee not ſeene a Lord Chancellour cenſured and diſplaced? haue wee not ſeene a Lord Treaſurer cenſured and diſplaced? and even the laſt Seſſion or ſitting of the Houſe, haue wee not ſeene a Doctour of Divinitie cenſured.</p>
+            <p>And for your ſelfe, wee will ſay no more than we haue ſayd: Onely Sir, Remember what that great Doctour of the Gentiles ſayth in the Concluſion of his firſt Epiſtle to the Corinthians, <hi>If any man loue not the Lord Jeſus Christ, let him bee Anathema, Maranatha;</hi> Your ſelfe being ſo great a Clerke know what the words ſignifie, <hi>Cave,</hi> for whoſoe<g ref="char:EOLhyphen"/>ver broacheth and maintayneth any haereſies or hae<g ref="char:EOLhyphen"/>reticall Doctrines in the Church cannot loue Chriſt who is Truth it ſelfe. And ſo Sir, <hi>If you</hi> (can) <hi>loue the Lord Jeſus, and doe belong to his Election of Grace, The Grace of our Lord leſus Christ bee with you, and our loue ſhall bee with you in Christ Jeſus,</hi>
+            </p>
+            <closer>Amen.
+<signed>By thoſe that wiſh your Sal<g ref="char:EOLhyphen"/>vation, (if it may bee:) The orthodox Miniſters of the Church of England.</signed>
+               <pb n="32" facs="tcp:157715:18"/>
+            </closer>
+            <postscript>
+               <head>Poſt-ſcript to Biſhop MOVNTAGV.</head>
+               <p>SIR, Whereas wee vnderſtand that you haue pro<g ref="char:EOLhyphen"/>cured his Majeſties Pardon vnder the Great Scale of England: Wee deny not but his Majeſtie may giue Pardons to what Malefastors hee pleaſeth; yea though they bee condemned to bee Beheaded or Hanged: And wee gueſſe your ſelfe best knowes what ends you haue in procuring your Pardon thus before<g ref="char:EOLhyphen"/>hand: and wee must leaue the conſideration thereof to the honourable Houſe: But good Sir giue vs leaue to tell you, that your Impieties against GOD and his Church, are of that nature, that an earthly Princes Pardon will yeeld ſmall Comfort to your Conſcience, vnleſſe (beſides your Recantation before men) you la<g ref="char:EOLhyphen"/>bour (which wee wiſh) to get the King of Kings his pardon vnder the Great Seale of Heaven, through the onely merits of <hi>CHRIST IESVS</hi> and the bloud of his Paſſion; If wee ſay againe, it bee not too late for you ſo to doe.</p>
+            </postscript>
+         </div>
+         <div type="petition">
+            <pb n="33" facs="tcp:157715:18"/>
+            <head>Hereunto is annexed an briefe Supplication of the Miniſters of the Church of Scotland, to the high Senate of Parlament in England, a<g ref="char:EOLhyphen"/>gainſt the ſame <hi>Richard Mountagu.</hi>
+            </head>
+            <opener>
+               <salute>Right Illuſtrious, Nobles, Knights, Burgeſſes.</salute>
+            </opener>
+            <p>WEe the Miniſters of the Kirke of Scotland, re<g ref="char:EOLhyphen"/>formed according to Gods ure Word in his holy Writ, (to a great number,) ſerving the ſame God, obeying the ſame King, and with an Vnanime Conſent, agreeing in matter of Faith, Doctrine and Diſcipline, with our welbeloved Brethren the Mi<g ref="char:EOLhyphen"/>niſters of the Church of England. In like moſt hum<g ref="char:EOLhyphen"/>ble and ſubmiſſe manner, do ſecond the ſame which our Brethren, the orthodox Miniſters of England haue Remonſtrated unto this Right Illuſtrious Court, againſt Mr. <hi>Mountagu</hi> and his Bukes; which haue done no good but mickle hurt and domage to this our Reformed Kirk: For it is not ſo old as true a ſaying; <hi>That where God hath his Kirke, the Devill hath</hi> (or labours to haue) <hi>his Chappell:</hi> And it is well knowne, that although our Kirk hath beene purely reformed according to Gods holy Writ, yet there are many Papiſts in this his Majeſties King<g ref="char:EOLhyphen"/>dome of Scotland. And ſince that falſe Lowne of the Kirk <hi>Arminius</hi> lived and vented his publike Er<g ref="char:EOLhyphen"/>rours and Haereſies, wee haue not been cleere from <hi>Arminians,</hi> and thoſe of late encreaſed and heartned by <hi>Mountagu's</hi> Writings. And yet praiſed be God, for the moſt part, wee haue his Bukes in ſuch oblo<g ref="char:EOLhyphen"/>quie and hatred, that when we ſee any of them at the
+<pb n="34" facs="tcp:157715:19"/>Buthes of any of our Bukeſellers, we hold them fit<g ref="char:EOLhyphen"/>ter to ſtoppe Muſtard pots, than to giue ſiluer for them. Alſo, our three Academies of St. <hi>Andrewes Glaſco,</hi> and <hi>Edenburgh</hi> haue condemned them. And certes, wee make mickle merveile to heare that ſick a man, whom before, we heard ſhould be cenſured and branded in your laſt Seſſion of Parlament, ſhould immediately be made an Byſhop and Gover<g ref="char:EOLhyphen"/>nour of your Church: Wee dayly pray to God for better Brethren, better Governours, in our Kirke. Though of late wee haue one of our owne Nation come from you, who was Chaplain to the late Duke of Buckingham, and over with him at the Ile of Ree, and had 2. or 3. Livings in London; who by the mediation of his mightie Mr. the Duke, is made By<g ref="char:EOLhyphen"/>ſhop of the Iles with us, and he is come over to us, a Bird of the Libertine Fether, and we doubt a <hi>Moun<g ref="char:EOLhyphen"/>taguiſt:</hi> And they ſay he was ſo well beloved in his Pariſh of St. <hi>Martins</hi> in the Vintree, that they rang the Bells when he was removed from them, and they of St. <hi>Faiths</hi> would haue done no leſſe, if they had had any Bells to ring: but they did more; for they gaue him mickle money to be rid of him. But what elſe is this man? They that came out of England with him ſay; That all the way as he came he did nothing but talke prophanely and ſcoffingly, and did eate and drinke freely: and inſtead of Prayers, he had con<g ref="char:EOLhyphen"/>ſtantly the Fidlers to play and ſing obſcaene and ſcurrulus Songs, early and late, at every place where he came, all the way as he went: And what doth he ſince he came amongſt us, but feaſt and epicurize and and take Tabacco? Yea, he doth eftſoones open his mouth wide againſt the Puritans of London: for ſo like Mr. <hi>Mountagu</hi> hee termeth all honeſt Orthodox
+<pb n="35" facs="tcp:157715:19"/>Miniſters: We would therefore if it were the will of God, that you had him backe from us, or elſe that he were with his great Lord and Maſter. For we like not ſuch lounes in our Kirk: And Lord, when it is thy will, remoue ſuch Loyterers out of thy Vine<g ref="char:EOLhyphen"/>yard. But craving pardon for our digreſſion, to leaue him and returne to <hi>Mountagu.</hi>
+            </p>
+            <p>We doe moſt humbly ſupplicate the Honourable Houſe to hearken (if not to us) unto our Brethren the Miniſters of the Church of England, and we hold their Appeale or Remonſtrance gude, godly and reli<g ref="char:EOLhyphen"/>gious; it being in Gods cauſe, and for the Truth; which we are not onely bound to labour to defend, but if need be, to lay downe our liues for the ſame: And we are of unanime-opinion, that Mr. <hi>Mountagu</hi> deſerveth ſevere Cenſure and puniſhment, if it were but for vilifying King <hi>Iames</hi> (of bleſſed memory) his Writings againſt the <hi>arminians,</hi> his ſecret depraving our Kirk of Scotland, his more open vilifying the ſa<g ref="char:EOLhyphen"/>cred Synode of Dort, which was ſo piouſly procured and highly approved by his ſaid Majeſtie, of ever bleſſed and happy memorie. For the whilk his vile doings, we hope doubtleſſe, when ever it may pleaſe God to moue his Majeſties heart, or any other Chri<g ref="char:EOLhyphen"/>ſtian Prince or State, Reformed, to call a Synode a<g ref="char:EOLhyphen"/>gaine; <hi>Mountagu</hi> though now a Byſhop, and his Bukes will be condemned and cenſured to poſterity.</p>
+            <closer>
+               <salute>And ſo the God of <hi>Abraham,</hi> the God of <hi>Iſaac</hi> and <hi>Jacobs</hi> God be with you, and all your pious and religious Conſults, for his Glory.</salute>
+               <signed>Your moſt humble and ſubmiſſe Oratours, The Miniſters of the Kirk of Scotland.</signed>
+            </closer>
+         </div>
+         <div type="publishers_comment">
+            <pb n="36" facs="tcp:157715:20"/>
+            <head>The Publiſhers Poſt-ſcript, or Concluſion to all.</head>
+            <p>FOr this preſent enſuing Yeere of Christ, <hi>1629.</hi> Wee will not take vpon vs to define or confine the Conſummation of all things, within the compaſſe there<g ref="char:EOLhyphen"/>of, as an auncient Scholler did publikely deliver at <hi>Pauls</hi> Croſſe, vpon a Text out of the Revelation about fiue yeeres past: And although wee may be perſwaded that the Laſt-Day is not ſo farre off as the ſecure World thinkes it: Yet ſeeing <hi>that Yeere, Day, and Houre,</hi> are <hi>Arcana Dej,</hi> wee are content to leave them lockt uppe in <hi>Arca Dej,</hi> vnto whom they belong. Wee are content alſo to paſſe by the Prench and Engliſh Prognoſticators Praedictions for this enſuing Yeere: But wee will not ceaſe to pray and beſeech the Lord of Hoſts ſo to unite the heart of the Kings Sacred Ma<g ref="char:EOLhyphen"/>jeſtie to the Parlament (his Great Councell) that the Higher and Lower Houſe may unanimouſly agree, and bee reciprocally united to the <hi>KING,</hi> that matters now much amiſſe in Church aend Common-wealth may bee ſo Reformed, that this YEERE may be accomp<g ref="char:EOLhyphen"/>ted <hi>Annus Aureus,</hi> and that this Parlament (this Yeere) may bee Inſcribed and engraven in Marble affixed to the Houſe, in Letters of Gold, <hi>SACRED TO MEMORIE AND TO POSTERITIE, THE (LONG EXPECTED) HAPPIE PARLAMENT.</hi>
+            </p>
+            <p>M.DC.XX.IX.</p>
+            <p>And however, in aſmuch as in the Praemiſſes, The Myſterie of B. <hi>MOVNTAGV's</hi> Iniquitie is ſo
+<pb n="37" facs="tcp:157715:20"/>manifeſtly revealed, ſeeing wee are enjoyned in the Letanie of our Engliſh Liturgie, to Pray; <hi>From all falſe Doctrine and Haereſie, Good Lord deliver vs.</hi> So wee hope it ſhall bee no impietie to adde, From B. <hi>Mountagu</hi> and his falſe doctrine and Haereſie, Good Lord deliver vs. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="character_of_Bishop_Montagu">
+            <pb n="36" facs="tcp:157715:21" rendition="simple:additions"/>
+            <head>An Arminian or meere Mountaguiſt.</head>
+            <p>IS an Animal,<note place="margin">His Study.</note> ſcarce rational, whoſe ſtudy, is to read (and applaud) <hi>Peter Lombard</hi> and <hi>Iohn Duns,</hi> be<g ref="char:EOLhyphen"/>fore <hi>Peter Martyr</hi> and <hi>Iohn Calvin:</hi> and for more moderne Polemicks, he preferres <hi>Bellarmine</hi> aboue <hi>Chamierus.</hi>
+            </p>
+            <p>His garb or faſhion,<note place="margin">His Garb.</note> when hee comes from the V<g ref="char:EOLhyphen"/>niverſity, wit affectation, is to weare a long Cloke, and a correſpondent Caſſock, ſhort no where but in the waſt, which is girt up with a girdle and a knot or roſe almoſt up to his noſe: co<g ref="char:cmbAbbrStroke">̄</g>monly a falling-band; becauſe Preciſians weare ſmall ſet-ruffs.</p>
+            <p>His Religion,<note place="margin">His Religi<g ref="char:EOLhyphen"/>on.</note> is, like a Confection, compounded of many, the leaſt ingredient being Proteſtantiſme: and to beleeve as the Church doth.</p>
+            <p>His firſt Ambition is to addreſſe himſelf to be ſome great-mans Trencher-Chaplain;<note place="margin">His Ambi<g ref="char:EOLhyphen"/>tion.</note> that ſo he may not be out of the Path way to preferment, not an <hi>Igno<g ref="char:EOLhyphen"/>ramus</hi> in Court-curteſies, nor a ſot in State-affaires.</p>
+            <p>His Devotion,<note place="margin">His Devo<g ref="char:EOLhyphen"/>tion.</note> is ſo conformable to the Ceremonies of the Church, that hee thinks it impietie to decline the leaſt particle thereof: and yet hee declines the Doctrine of the Church ſo much, that hee wiſheth with all his heart, the Praver in the Letanie of our Engliſh Liturgie, <hi>From all falſe Doctrine and Haere<g ref="char:EOLhyphen"/>ſie, Good Lord deliver vs,</hi> were obliterated.</p>
+            <p>He is a mungrell Divine,<note place="margin">His Divi<g ref="char:EOLhyphen"/>nitie. <hi>N. C.</hi> his Achitophel.</note> who, as it were betwixt Hawk and buzzard, can ſee nicely to diſtinguiſh be<g ref="char:EOLhyphen"/>twixt a Puritane in opinion and a Puritane in diſci<g ref="char:EOLhyphen"/>pline: and hath taught the name, contrary to the firſt inſtitution, ſo farre to enlarge it ſelfe, that a
+<pb n="37" facs="tcp:157715:21"/>Proteſtant muſt make hard ſhift to ſaue him ſelfe harmleſſe.<note place="margin">
+                  <hi>I.R.</hi> his Speech in Parlame<g ref="char:cmbAbbrStroke">̄</g>t, <hi>21.</hi> Janua. <hi>1628.</hi> His politike part.</note> And hee is one that makes the Grace of God lackey it after the will of men, the Sheepe to keepe the Shepheard, and a mortall ſeed of an im<g ref="char:EOLhyphen"/>mortall God.</p>
+            <p>He is the ſpawne of a Papiſt, and if there come the warmth of favour upon him, you ſhall ſee him turne into one of thoſe Frogs which aroſe out of the bot<g ref="char:EOLhyphen"/>tomleſſe Pit: and if you marke it well, you ſhall ſee him reaching out his hand to a Papiſt: (a Papiſt to a Ieſuite, and a Ieſuite gives one hand to the Pope, and another to the King of Spaine:) And ſo wee leave him to get more Grace, profeſſe and practiſe more goodneſſe.</p>
+            <closer>
+               <hi>His Motto</hi> CONCORDIA-DISCORS.
+<signed>Orthodoxus.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
